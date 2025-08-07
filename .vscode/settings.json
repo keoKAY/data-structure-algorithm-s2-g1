@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "chrono": "cpp",
+        "array": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    }
+}
